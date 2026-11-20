@@ -1,0 +1,6 @@
+app\lmalecic\factory\ParserFactory.class
+app\lmalecic\factory\UrlConnectionFactory.class
+app\lmalecic\utilities\FileUtils.class
+app\lmalecic\utilities\JAXBUtils.class
+app\lmalecic\utilities\IconUtils.class
+app\lmalecic\utilities\MessageUtils.class
